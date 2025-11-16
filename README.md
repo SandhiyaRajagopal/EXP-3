@@ -60,7 +60,6 @@ b)SPDT(XOR):
 <img width="995" height="506" alt="image" src="https://github.com/user-attachments/assets/b7bb49a3-ccc0-4955-9083-29f2658c5b89" />
 
 
-![WhatsApp Image 2025-11-03 at 22 05 06_e21657d9](https://github.com/user-attachments/assets/0296dbd9-06f3-4177-b916-abd42538e209)
 
 Tabulation:1
 a) SPDT(XNOR):	
